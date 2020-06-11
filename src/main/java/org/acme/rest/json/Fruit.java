@@ -5,6 +5,7 @@ public class Fruit {
     public String name;
     public String description;
     public Integer tartness;
+    public Integer malicAcidConcentration;
 
     public Fruit() {
     }
